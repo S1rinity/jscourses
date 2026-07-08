@@ -1,0 +1,10 @@
+let a = [1 , 0.1 , 'sixseven', true, 12324214214251, "asdf", {id:1 , name: 'vasyl'},[],false];
+console.log(a[0]);
+console.log(a[1]);
+console.log(a[2]);
+console.log(a[3]);
+console.log(a[4]);
+console.log(a[5]);
+console.log(a[6]);
+console.log(a[7]);
+console.log(a[8]);
